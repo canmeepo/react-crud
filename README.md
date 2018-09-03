@@ -19,5 +19,5 @@ json-server --watch db.json --port 3001
 ```
 ## 4. run react-crud application
 ```bash
-yarn
+yarn start
 ```
